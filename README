@@ -1,7 +1,6 @@
 Overview
 ========
-
-Johnny the open source cross-platform GUI frontend for John the Ripper, the
+HI I'm Noby providing this Johnny the open source cross-platform GUI frontend for John the Ripper, the
 popular password cracker, written in C++ using the Qt framework.
 
 Johnny's aim is to automate and simplify the password cracking routine on the
